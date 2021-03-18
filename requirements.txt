@@ -1,4 +1,5 @@
 keras
+tensorflow
 opencv-python
 numpy
 pandas
