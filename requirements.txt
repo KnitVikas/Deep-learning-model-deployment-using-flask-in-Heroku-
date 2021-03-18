@@ -1,6 +1,5 @@
 keras
 opencv-python
-tensorflow
 numpy
 pandas
 pybase64
